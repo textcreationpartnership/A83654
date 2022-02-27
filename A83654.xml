@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The charge of the Commons of England, against Charls Stuart, King of England, of high treason, and other high crimes, exhibited to the High Court of Justice, by John Cook Esquire, Solicitor General, appointed by the said Court, for, and on the behalf of the people of England. As it was read to him by the clerk in the said court, as soon as Mr. Solicitor General for the Kingdom had impeached him, in the name of the Commons of England, at his first araignment, Saturday, Ian. 20. 1648. Examined by the original copy. Imprimatur, Gilbert Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83654</idno>
+            <idno type="STC">Wing E2537</idno>
+            <idno type="STC">Thomason E540_5</idno>
+            <idno type="STC">Thomason E541_18</idno>
+            <idno type="STC">ESTC R205748</idno>
+            <idno type="EEBO-CITATION">99865033</idno>
+            <idno type="PROQUEST">99865033</idno>
+            <idno type="VID">164921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164921)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[5], 84:E541[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The charge of the Commons of England, against Charls Stuart, King of England, of high treason, and other high crimes, exhibited to the High Court of Justice, by John Cook Esquire, Solicitor General, appointed by the said Court, for, and on the behalf of the people of England. As it was read to him by the clerk in the said court, as soon as Mr. Solicitor General for the Kingdom had impeached him, in the name of the Commons of England, at his first araignment, Saturday, Ian. 20. 1648. Examined by the original copy. Imprimatur, Gilbert Mabbot.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rapha Harford, at the Gilt Bible in Queens-Head-Alley in Pater-noster-Row,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Unauthorized -- Wing.</note>
+                  <note>Annotations on Thomason copies: "Jan 26." (E.540[18]); "feb. 6" (E.541[18]).</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164921:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <p>THE CHARGE OF THE COMMONS OF ENGLAND, Againſt Charls Stuart, King of <hi>England,</hi> Of High Treaſon, and other High Crimes, exhibited to the High Court of Juſtice, By <hi>John Cook</hi> Eſquire, Solicitor General, appointed by the ſaid Court, for, and on the behalf of the People of <hi>England.</hi>
+            </p>
+            <p>As it was read to Him by the Clerk in the ſaid Court, as ſoon as Mr. Solicitor General for the Kingdom had Impeached Him, in the name of the Commons of <hi>England,</hi> at His firſt Araignment, <hi>Saturday, Ian.</hi> 20. 1648.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Examined by the Original Copy. <hi>Imprimatur,</hi>
+                        </p>
+                        <closer>
+                           <signed>Gilbert Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Rapha Harford,</hi> at the Gilt Bible in Queens-Head-Alley in Pater-noſter-Row. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="document">
+            <pb facs="tcp:164921:2"/>
+            <!-- PDF PAGE 51 -->
+            <pb n="3" facs="tcp:164921:2"/>
+            <!-- PDF PAGE 51 -->
+            <head>THE Charge of the Commons of <hi>England,</hi> againſt CHARLS STUART, King of <hi>England,</hi> Of High Treaſon, and other High Crimes, exhibited to the High Court of Juſtice, <hi>Saturday, Ianuary</hi> 20. 1648.</head>
+            <p>The Court being ſate, and the Priſoner at the Bar, Mr. <hi>Cook,</hi> Solicitor General, ſpake thus; My Lord, In behalf of the Commons of <hi>England,</hi> and of all the people thereof, I do accuſe <hi>Charls Stuart,</hi> here preſent, of High Treaſon, and High Miſde<g ref="char:EOLhyphen"/>meanors: And I do, in the name of the Commons of <hi>England,</hi> deſire the Charge may be read unto Him, which the Clerk then read, as followeth;</p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the ſaid CHARLS STUART, being admitted King of England, and therein truſted with a <hi>limited Power,</hi> to Govern by, and accord<g ref="char:EOLhyphen"/>ing to the Laws of the Land, and not otherwiſe; And by his Truſt, Oath, and Of<g ref="char:EOLhyphen"/>fice, being obliged to uſe the power committed to him, <hi>For the good and benefit of the People,</hi> and for the preſervation of their Rights and Liber<g ref="char:EOLhyphen"/>ties; Yet nevertheleſs, out of a <hi>wicked Deſign,</hi> to erect and uphold in himſelf an unlimited and Tyrannicall power, to rule <hi>according to his Will,</hi>
+               <pb n="4" facs="tcp:164921:3"/>
+               <!-- PDF PAGE 52 -->and to overthrow the Rights and Liberties of the People; Yea, to take away, and make void the foundations thereof, and of all redreſs and remedy of miſ-government, which by the fun<g ref="char:EOLhyphen"/>damental Conſtitutions of this Kingdom, were reſerved on the Peoples behalf, in the Right and Power of frequent and ſucceſsive Parlia<g ref="char:EOLhyphen"/>ments, or Nationall meetings in Councell; He, the ſaid <hi>Charls Stuart,</hi> for accompliſhment of ſuch his <hi>Deſigns,</hi> and for the protecting of himſelf and his adherents, in His and Their <hi>wicked Practiſes</hi> to the ſame Ends, hath Trayte<g ref="char:EOLhyphen"/>rouſly and maliciouſly levyed War againſt the <hi>preſent Parliament, &amp; the People therein Repreſented.</hi>
+            </p>
+            <p>Particularly, upon or about the thirtieth day of <hi>Iune,</hi> in the yeer of our Lord, One thouſand ſix hundred forty and two, At <hi>Be<g ref="char:EOLhyphen"/>verly,</hi> in the County of <hi>York;</hi> And upon, or about the thirtieth day of <hi>Iuly,</hi> in the yeer a<g ref="char:EOLhyphen"/>foreſaid, in the County of the City of <hi>York;</hi> And upon, or about the twenty fourth day of <hi>Auguſt,</hi> in the ſame yeer, at the County of the Town of <hi>Nottingham</hi> (when, and where He ſet up <hi>His Standard of War;</hi>) And alſo on, or about the twenty third day of <hi>October,</hi> in the ſame yeer, at <hi>Edg-Hill,</hi> and <hi>Keinton field,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Warwick;</hi> And upon, or about the thirti<g ref="char:EOLhyphen"/>eth
+<pb n="5" facs="tcp:164921:3"/>
+               <!-- PDF PAGE 52 -->day of <hi>November,</hi> in the ſame yeer, at <hi>Brainchford,</hi> in the County of <hi>Middleſex:</hi> And upon, or about the thirtieth day of <hi>Auguſt,</hi> in the yeer of our Lord, One thouſand ſix hundred fourty and three, at <hi>Caveſham-bridg,</hi> neer <hi>Red<g ref="char:EOLhyphen"/>ing,</hi> in the County of <hi>Berks;</hi> And upon, or about the thirtieth day of <hi>October,</hi> in the yeer laſt mentioned, at, or neer the City of <hi>Gloceſter;</hi> And upon, or about the thirtieth day of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> in the yeer laſt mentioned, at <hi>Newbery,</hi> in the County of <hi>Berks;</hi> And upon, or about the one and thirtieth day of <hi>Iuly,</hi> in the yeer of our Lord, One thouſand ſix hundred fourty and four, at <hi>Cropredy-bridg,</hi> in the County of <hi>Oxon;</hi> And upon, or about the thirtieth day of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> in the yeer laſt mentioned, at <hi>Bodmin,</hi> and other places neer adjacent, in the County of <hi>Cornwal;</hi> And upon, or about the thirtieth day of <hi>November,</hi> in the yeer laſt mentioned, at <hi>New<g ref="char:EOLhyphen"/>bery</hi> aforeſaid; And upon, or about the eighth day of <hi>Iune,</hi> in the yeer of our Lord, one thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty and five, at the Town of <hi>Leiceſter;</hi> And alſo, upon the fourteenth day of the ſame moneth, in the ſame yeer, at <hi>Naſeby<g ref="char:EOLhyphen"/>field,</hi> in the County of <hi>Northampton.</hi> At which ſeveral times and places, or moſt of them, and at many other places in this Land, at ſeveral
+<pb n="6" facs="tcp:164921:4"/>
+               <!-- PDF PAGE 53 -->other times, within the yeers aforementioned: And in the yeer of our Lord, One thouſand ſix hundred fourty and ſix, He the ſaid <hi>Charls Stuart,</hi> hath cauſed and procured many thou<g ref="char:EOLhyphen"/>ſands of the free-people of the Nation to be ſlain; and by <hi>Diviſions, Parties, and Inſurrections,</hi> within this Land, by invaſions from forraign parts, endevored and procured by Him, and by <hi>many other evil ways and means.</hi> He the ſaid <hi>Charls Stuart,</hi> hath not onely <hi>maintained and carryed</hi> on the ſaid War, <hi>both by Land and Sea,</hi> during the yeers before mentioned; but alſo <hi>hath renewed,</hi> or <hi>cauſed</hi> to be <hi>renewed, the ſaid War</hi> againſt the <hi>Parliament, and good people</hi> of this <hi>Na<g ref="char:EOLhyphen"/>tion,</hi> in this preſent yeer, One thouſand ſix hundred forty and eight, in the Counties of <hi>Kent, Eſſex, Surrey, Suſſex, Middleſex,</hi> and many other Counties and places in <hi>England</hi> and <hi>Wales,</hi> and alſo by Sea; And particularly, He the ſaid <hi>Charls Stuart,</hi> hath for that purpoſe, <hi>Given Commiſsions to his Son,</hi> the Prince, and others, whereby, <hi>Beſides multitudes of other perſons,</hi> many ſuch, as were by the <hi>Parliament intruſted and imployed,</hi> for the ſafety of the <hi>Nation;</hi> being by Him or His Agents, corrupted; to the betray<g ref="char:EOLhyphen"/>ing of their <hi>Truſt,</hi> and revolting from the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> have had entertainment and commiſsi<g ref="char:EOLhyphen"/>on,
+<pb n="8" facs="tcp:164921:4"/>
+               <!-- PDF PAGE 53 -->for the continuing and renewing of <hi>War</hi> and <hi>Hoſtility,</hi> againſt the ſaid <hi>Parliament and People,</hi> as aforeſaid. By which <hi>cruel and unnatural Wars</hi> by Him, the ſaid <hi>Charls Stuart,</hi> levyed, continued, and renewed, as aforeſaid, much <hi>Innocent blood</hi> of the <hi>Free-people</hi> of this <hi>Nation</hi> hath been <hi>ſpilt;</hi> many <hi>Families</hi> have been <hi>un<g ref="char:EOLhyphen"/>done,</hi> the <hi>Publike Treaſury waſted and exhauſted, Trade obstructed,</hi> and <hi>miſerably decayed; vaſt ex<g ref="char:EOLhyphen"/>pence</hi> and <hi>damage</hi> to the <hi>Nation incurred,</hi> and many <hi>parts</hi> of the <hi>Land ſpoyled,</hi> ſome of them even to <hi>deſolation.</hi>
+            </p>
+            <p>And for further proſecution of His ſaid <hi>evil Deſigns,</hi> He, the ſaid <hi>Charls Stuart,</hi> doth ſtill continue his Commiſsions to the ſaid Prince, and other <hi>Rebels</hi> and <hi>Revolters,</hi> both Engliſh and Forraigners; and to the Earl of <hi>Ormond,</hi> and to the <hi>Iriſh Rebels</hi> and <hi>Revolters,</hi> aſſociated with him; from whom further <hi>Invaſions</hi> upon this Land are threatned, upon the procurement, and on the behalf of the ſaid <hi>Charls Stuart.</hi>
+            </p>
+            <p>All which <hi>wicked Deſigns, Wars,</hi> and evill pra<g ref="char:EOLhyphen"/>ctiſes of Him, the ſaid <hi>Charls Stuart,</hi> have been, and are carryed on, for the advancing and up<g ref="char:EOLhyphen"/>holding of the Perſonal Intereſt of <hi>Will and Power,</hi> and pretended <hi>Prerogative</hi> to Himſelf and his Family, againſt the publike Intereſt, Common Right, Liberty, Juſtice, and Peace
+<pb n="6" facs="tcp:164921:5"/>
+               <!-- PDF PAGE 54 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:164921:5"/>
+               <!-- PDF PAGE 54 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:164921:6"/>
+               <!-- PDF PAGE 55 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:164921:6"/>
+               <!-- PDF PAGE 55 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:164921:7"/>
+               <!-- PDF PAGE 56 -->
+               <hi>Of the People of this Nation,</hi> by, and for whom he was entruſted, as aforeſaid.</p>
+            <p>By all which it appeareth, that He, the ſaid <hi>Charls Stuart</hi> hath been, and is the Occaſioner, Author, and Contriver of the ſaid Unnaturall, Cruell, and bloody Wars, and therein guilty of all the Treaſons, Murthers, Rapines, Burnings, Spoiles, Deſolations, Damage and Miſchief to this Nation, acted or committed in the ſaid Wars, or occaſioned thereby.</p>
+            <p>And the ſaid <hi>Iohn Cook,</hi> by Proteſtation (ſaving on the behalf of the People of England, the li<g ref="char:EOLhyphen"/>berty of Exhibiting at any time hereafter, any other Charge againſt the ſaid <hi>Charls Stuart;</hi> and alſo of replying to the Anſwers which the ſaid <hi>Charls Stuart</hi> ſhall make to the Premiſes, or a<g ref="char:EOLhyphen"/>ny of them, or any other Charge that ſhall be ſo Exhibited) doth, for the ſaid <hi>Treaſons</hi> and <hi>Crimes,</hi> on the behalf of the ſaid People of Eng<g ref="char:EOLhyphen"/>land, Impeach the ſaid <hi>Charls Stuart,</hi> as a <hi>Tyrant, Traytor, Murtherer,</hi> and a <hi>publike,</hi> and <hi>Implacable Enemy</hi> to the Common-wealth of <hi>England:</hi> And pray, That the ſaid <hi>Charls Stuart,</hi> King of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> may be put to anſwer <hi>All</hi> and <hi>Every</hi> the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>remiſes,</hi> That ſuch <hi>Proceedings, Examinations, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ryals, Sentence,</hi> and <hi>Iudgment</hi> may be thereup<g ref="char:EOLhyphen"/>on had, or ſhall be agreeable to Juſtice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
